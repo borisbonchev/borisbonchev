@@ -17,7 +17,7 @@ I am a backend engineer dedicated to crafting solutions that address real-world 
 
 ## Passion Projects
 <img align='left' width='50px' style='padding-right:10px' img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img align='left' width='50px' style='padding-right:10px' img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
+<img align='left' width='50px' style='padding-right:10px' img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
 <img align='left' width='50px' style='padding-right:10px' img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
 
 <br/>
